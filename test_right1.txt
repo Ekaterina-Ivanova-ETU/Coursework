@@ -1,0 +1,10 @@
+S A 6
+S B 5
+S E 4
+A B 2
+A C 3
+B D 2
+E D 3
+D C 1
+C T 5
+D T 4

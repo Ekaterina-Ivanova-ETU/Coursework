@@ -1,0 +1,5 @@
+S A 2
+Aa B 3
+A D 3
+D G 1
+G T 4
